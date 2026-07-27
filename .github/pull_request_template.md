@@ -1,7 +1,7 @@
 ## Description
 [Explain clearly what this PR does. What logic was implemented or what bug was fixed?]
 
-**Resolves:** #[Insert Issue Number here]
+Resolves: #[Insert Issue Number here]
 
 ---
 
